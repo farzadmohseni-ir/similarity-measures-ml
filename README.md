@@ -54,7 +54,7 @@ This report includes **15+ similarity/distance metrics**, each explained with:
 
 Click the button below to read the complete PDF report:
 
-[![Open PDF](https://img.shields.io/badge/View_Report-PDF-blue)](Similarity%20Measures%20in%20ML.pdf)
+[![Open PDF](https://img.shields.io/badge/View_Report-PDF-blue)](https://github.com/farzadmohseni-ir/similarity-measures-ml/blob/main/Similarity%20Measures%20in%20ML.pdf)
 
 ---
 
